@@ -21,3 +21,5 @@
 - [Covid-19 India Android App](https://tinyurl.com/covid19indiask) (by Sachin K [@sachinkcrp](https://github.com/sachinkcrp))
 
 - [COVID19 India](https://github.com/iamnishanth/Covid19India) (by Nishanth [@iamNishanth](https://github.com/iamnishanth))
+
+- Download [W-19 App](https://play.app.goo.gl/?link=https://play.google.com/store/apps/details?id=com.johnowais.w_19&ddl=1&pcampaignid=web_ddl_1) from Google Play Store for latest updates on COVID-19 cases throughout the world.
